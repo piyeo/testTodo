@@ -1,3 +1,3 @@
 # testTodo
 
-> My first TODO app
+> https://nuxt-test-todo.herokuapp.com
